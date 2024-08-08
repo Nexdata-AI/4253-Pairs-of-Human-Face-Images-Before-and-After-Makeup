@@ -3,7 +3,7 @@
 ## Description
 4,253 Pairs of Human Face Images – Before and After Makeup. For each pair, one image without makeup and one image with makeup are included. This dataset can be used for tasks such as face recognition and makeup style analysis.
 
-For more details, please refer to the link: https://www.nexdata.ai/datasets/1037?source=Github
+For more details, please refer to the link:https://www.nexdata.ai/datasets/computervision/1037?source=Github
 
 
 # Specifications
